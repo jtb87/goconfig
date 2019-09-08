@@ -1,2 +1,2 @@
 # go-config
-Parse json files into defined config structs
+Parse json files into pre-defined config structs
